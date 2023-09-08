@@ -1,5 +1,5 @@
 import React from "react";
-import image from "next/image"; 
+import image from "../images/demo.png"
 
 function About() {
   return (
@@ -11,4 +11,4 @@ function About() {
   );
 }
 
-export default About()
+export default About
